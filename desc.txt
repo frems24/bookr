@@ -1,0 +1,4 @@
+Ben Shaw i in.
+Django
+Tworzenie nowoczesnych aplikacji internetowych w pythonie
+
