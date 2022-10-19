@@ -16,3 +16,6 @@ db.sqlite3-journal
 # Byte-compiled
 __pycache__/
 
+# Env
+Pipfile.lock
+
